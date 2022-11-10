@@ -19,3 +19,6 @@
 </html>
 ```
 -THam khảo link [tại đây](http://google.com)
+### Hình minh họa
+
+![ảnh đẹp](./landscape-photography_1645.jpg)
